@@ -52,8 +52,6 @@
 
 ## 效果
 **主界面**  
-
-![主界面](https://www.hualigs.cn/image/60a4d97e5fcf8.jpg)  
-
+![主界面](https://www.hualigs.cn/image/60a4d97e5fcf8.jpg)
 **登录界面**
 ![登陆界面](https://www.hualigs.cn/image/60a4d9d585d13.jpg)
