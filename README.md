@@ -56,6 +56,6 @@
 
 ## 效果
 **主界面**  
-![主界面](https://github.com/FanDady/Communication-Simulation/main/1.jpg)  
+![主界面](https://github.com/FanDady/Communication-Simulation/main/images/1.jpg)  
 **登录界面**  
-![登陆界面](https://github.com/FanDady/Communication-Simulation/main/2.jpg)
+![登陆界面](https://github.com/FanDady/Communication-Simulation/main/images/2.jpg)
